@@ -1,0 +1,24 @@
+.table {
+    border: lightcoral solid 4px;
+    margin: auto;
+}
+
+.current, .add {
+    background-color: sandybrown;
+    color: white;
+    text-align: center;
+}
+
+.add {
+    padding: 2px;
+}
+
+#submit {
+    background-color: blue;
+    color: white;
+}
+
+.jumbotron {
+    background-color: sandybrown;
+    text-align: center;
+}
